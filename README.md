@@ -1,7 +1,7 @@
-# Team_11
+# Team_2
 1. BWIZA Annie Pierré
 2. ISHEJA Ladouce
 3. KIRABO Esther
 4. Bior Aguer Kuir
-5. uwineza Bonesha Kevine 
+5. Uwineza Bonesha Kevine 
 
