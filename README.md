@@ -1,3 +1,3 @@
 # Team_11
-BWIZA Annie Pierre
-ISHEJA Ladouce
+1. BWIZA Annie Pierre
+2. ISHEJA Ladouce
